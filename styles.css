@@ -2,6 +2,7 @@ body {
     text-align: center;
     font: lato;
     width: 60%;
+    margin: auto;
 }
 
 .website-counter {
